@@ -1,0 +1,19 @@
+h1{
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+ol{
+    margin-left: 3rem;
+    font-size: 1.5rem;
+    list-style-type: decimal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li:nth-child(odd){
+   color: blue;
+}
+
+
+
+

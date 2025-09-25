@@ -1,0 +1,19 @@
+th, td{
+    padding: 1rem;
+    font-size: 2rem;
+}
+
+th{
+    background-color: black;
+    color: white;
+}
+
+td{
+   border-color: black;
+   border-style: solid;
+}
+
+h1{
+    font-size: 2rem;
+    margin-left: 13rem;
+}
