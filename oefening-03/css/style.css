@@ -1,0 +1,22 @@
+th{
+    background-color: black;
+    color: white;
+    font-size: 2rem;
+    padding: 3rem;
+    font-weight: bold;
+}
+
+td{
+    font-size: 2rem;
+    text-align: center;
+    background-color: lightgrey;
+}
+
+.grey{
+    background-color: darkgray;
+}
+
+table{
+    outline-style: solid;
+}
+

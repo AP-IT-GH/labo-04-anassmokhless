@@ -1,0 +1,19 @@
+caption {
+  text-align: center;
+  font-size: 3rem;
+}
+
+th, td {
+  font-size: 3rem;
+  padding: 2rem;
+}
+
+th {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+
+td{
+    border-style: solid;
+}

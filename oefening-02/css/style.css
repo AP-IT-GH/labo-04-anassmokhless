@@ -1,0 +1,26 @@
+body{
+    margin: 3rem;
+}
+
+h1{
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+ol{
+    margin-top: 2rem;
+    list-style-type: decimal;
+    margin-left: 2rem;
+}
+
+li{
+    font-size: 1.5rem;
+}
+
+li:nth-child(odd){
+    color: blue;
+}
+
+li:nth-child(even){
+    background-color: rgb(236, 236, 236);
+}

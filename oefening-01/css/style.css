@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+
+h1{
+    font-size: 5rem;
+    font-weight: bold;
+}
+
+button{
+    background-color: lightblue;
+    padding: 2rem;
+    font-size: 3rem;
+    color: white;
+    border-radius: 0.5rem;
+    margin: 1rem;
+}
+
+#button1:hover{
+    box-shadow: 3px 3px 10px black;
+}
+
+#button2:active{
+    background-color: blue;
+    transform: translateY(0.5rem);
+}
+
+#button3:focus{
+    outline: blue;
+    outline-width: 0.5rem;
+    outline-style: solid;
+}
